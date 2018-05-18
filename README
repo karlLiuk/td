@@ -10,3 +10,5 @@ value function representations and include eligability traces
 (ie. TD(\lambda)).
 
 Requires: numpy, cmac (http://github.com/stober/cmac), cartpole (https://github.com/stober/cartpole), pybrain (for nfq comparison)
+
+++
